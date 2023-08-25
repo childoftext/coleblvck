@@ -14,21 +14,30 @@
     </head>
     <body>
         <header>
-            <nav id="logo-nav">
-                <img id="nav-logo" src="./assets/logos/mask.png">
+            <nav id="top-bar">
+                <div id="now-playing-div">
+                    <div id="now-playing-header-container">
+                        <img class="play-icon" src="./assets/icons/headphones.svg">
+                        <h3 id="now-playing-header">Now listening/Last Played:</h3>
+                    </div>
+                    <progress value="70" max="100" id="now-playing-progress"></progress>
+                </div>
+
+
                 <a href="#main">
                     <img id="nav-icon" src="./assets/icons/arrow-bottom.svg" alt="Go to content">
                 </a>
             </nav>
-            <div id="now-playing-div">
-                <div id="now-playing-header-container">
-                    <img class="play-icon" src="./assets/icons/headphones.svg">
-                    <h3 id="now-playing-header">Currently listening/Last Played:</h3>
-                </div>
-                <progress value="70" max="100" id="now-playing-progress"></progress>
-            </div>
         </header>
         <main id="main">
+            <div id="intro-container">
+                <div class="intro-container-child">
+                    <img id="coder-image" src="./assets/images/coder1.png">
+                </div>
+                <div class="intro-container-child">
+                    <p id="intro-text">Welcome to the depths of my mind... I write code for love, and I make music for comfort with a few things in-between.</p>
+                </div>
+            </div>
         </main>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
