@@ -47,7 +47,7 @@ header {
 }
 
 #now-playing-div {
-    width: 98%;
+    width: 95%;
     background-color: #efe4bd;
     display: flex;
     flex-direction: column;
