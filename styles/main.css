@@ -118,7 +118,7 @@ main {
 #intro-container {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
     width: 100%;
 }
 
@@ -127,15 +127,14 @@ main {
 }
 
 .intro-container-child {
-    flex-grow: 2;
-    width: 100%;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
 }
 
+
 #intro-text {
-    padding: 10px;
+    padding: 15px;
     font-size: 18px;
     text-align: justify;
 }
