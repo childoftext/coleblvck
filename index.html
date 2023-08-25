@@ -14,9 +14,12 @@
     </head>
     <body>
         <header>
-            <div id="logo-container">
-                <img id="header-logo" src="./assets/logos/logo-1000.png">
-            </div>
+            <nav id="logo-nav">
+                <img id="nav-logo" src="./assets/logos/logo-1000.png">
+                <a href="#main">
+                    <img id="nav-icon" src="./assets/icons/arrow-bottom.svg" alt="Go to content">
+                </a>
+            </nav>
             <div id="now-playing-div">
                 <div id="now-playing-header-container">
                     <img class="play-icon" src="./assets/icons/headphones.svg">
@@ -25,7 +28,7 @@
                 <progress value="70" max="100" id="now-playing-progress"></progress>
             </div>
         </header>
-        <main>
+        <main id="main">
         </main>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>

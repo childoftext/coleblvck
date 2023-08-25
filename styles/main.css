@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    width: 98%;
+    width: 100%;
     background-color: #efe4bd;
     display: flex;
     flex-direction: column;
@@ -27,13 +27,28 @@ header {
     padding: 10px;
 }
 
-#header-logo {
-    width: 300px;
-    height: 300px;
+#logo-nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.7);
+    border-radius: 20px;
+}
+
+#nav-logo {
+    width: 150px;
+    height: 150px;
+}
+
+#nav-icon {
+    width: 120px;
+    height: 120px;
+    color: black;
 }
 
 #now-playing-div {
-    width: 98%;
+    width: 100%;
     background-color: #efe4bd;
     display: flex;
     flex-direction: column;
