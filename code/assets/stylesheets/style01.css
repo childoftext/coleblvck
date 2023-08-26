@@ -278,10 +278,12 @@ footer {
 /*Theme Toggle*/
 
 #theme-options-toggle {
-  background-color: rgb(14, 14, 14);
+  background-color: khaki;
   padding: 10px;
-  border-radius: 50%;
+  margin-right: 10px;
+  border-radius: 10px;
   cursor: pointer;
+  width: 20px;
 }
 
 #theme-options-toggle:hover {
