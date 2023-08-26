@@ -90,7 +90,7 @@ a.navlink:hover {
   justify-content: center;
   color: khaki;
   background-color: black;
-  padding: 15px;
+  padding: 10px;
   border-radius: 0px 0px 10px 10px;
 }
 
@@ -283,7 +283,7 @@ footer {
   margin-right: 10px;
   border-radius: 10px;
   cursor: pointer;
-  width: 20px;
+  width: 18px;
 }
 
 #theme-options-toggle:hover {
