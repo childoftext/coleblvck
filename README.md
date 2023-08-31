@@ -4,6 +4,7 @@
 I am Cole and I'm involved with Technology and Music.
 
 
+---
 **Working with:**
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,6 +19,7 @@ I am Cole and I'm involved with Technology and Music.
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
+---
 Actively:
 - 🔭 Currently developing backend web apps with Python(Django), Android and web apps with Flutter;
 - 👀 Looking to contribute meaningfully in spaces utilising the above technologies.
