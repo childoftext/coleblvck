@@ -25,6 +25,7 @@ Actively:
 - 👀 Looking to contribute meaningfully in spaces utilising the above technologies.
 
 Passively:
-- developing Frontend UI with HTML and CSS
+- Developing Frontend UI with HTML and CSS
 - Looking to collaborate in the game development scene
-- 💬 Ask me about: Anything... Music Production, Aircrafts, cooking...
+
+💬 Ask me about: Anything... Music Production, Aircrafts, cooking...
