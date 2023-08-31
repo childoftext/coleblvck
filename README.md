@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-I am Cole and I'm involved with Technology and Music.
+I am Cole and I'm involved with all things Technology and Music.
 
 
 ---
