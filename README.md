@@ -1,4 +1,4 @@
-#####My name is Cole. I am a Software developer and I produce music.
+##### My name is Cole. I am a Software developer and I produce music.
 
 ---
 **Working with [Still Learning]:**
