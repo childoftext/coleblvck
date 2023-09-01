@@ -17,6 +17,7 @@ I am Cole and I'm involved with all things Technology and Music.
 **Learning:**
 <br>
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 
 ---
